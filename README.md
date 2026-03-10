@@ -3,7 +3,6 @@
 > 🔍 A simple but powerful **Python tool** to track the **location, carrier, timezone, and map position** of any phone number — just by entering it!  
 > 🚨 For **educational and ethical purposes only**.
 
----
 
 ![screenshot](./Screenshot_20250804-233902.png)
 
@@ -64,57 +63,6 @@ cd PN_TRACKER
 python3 PN_TRACKER.py
 ```
 
-3. **Enter the phone number** (with country code, e.g. `+2348012345678`)
 
-4. The script will display:
 
-- 📍 Location  
-- 📡 Carrier  
-- 🕒 Timezone  
-- 🌍 Coordinates  
-- 📁 Map saved as `phone_location.html`
-
----
-
-## 🧪 Sample Output
-
-```
-📍 Location: Lagos
-📡 Carrier: MTN
-🌍 Coordinates: 6.5244, 3.3792
-🕒 Timezone: Africa/Lagos
-📁 Map saved as phone_location.html
-```
-
----
-
-## 📂 Files Included
-
-| File | Description |
-|------|-------------|
-| `pn_tracker.py` | Main script to track phone numbers |
-| `requirements.txt` | Python libraries to install |
-| `README.md` | Project documentation |
-| `phone_location.html` | Generated map (output) |
-| `screenshot.png` | (Optional) Preview image of the map |
-
----
-
-## 🛡️ Ethical Use Disclaimer
-
-> This tool is made for **learning, awareness, and ethical research only**.  
-> Do not use it to stalk, harass, or track individuals without their **explicit consent**.  
-> Misuse may be illegal and punishable by law.
-
----
-
-## ⭐ Support This Project
-
-If you find this project helpful, please ⭐ it on GitHub, share the YouTube tutorial, and contribute improvements!
-
----
-
-## 🙌 Credits
-
-Created with ❤️ by [ACW360](https://github.com/ACW360)
-
+/////////////BY Saheel/////////////////
